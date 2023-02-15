@@ -1,0 +1,25 @@
+{
+    "datas":[{
+        "id":"01",
+        "name":"hair dryer",
+        "image":"https://rukminim1.flixcart.com/image/400/400/hair-dryer/c/t/g/philips-hp8100-46-original-imaemymzuxrnzfjb.jpeg?q=70",
+        "prize":"₹645"
+    },
+    {
+        "id":"02",
+        "name":"Nikon",
+        "image":"https://rukminim1.flixcart.com/image/400/400/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=70",
+        "password":"Madhu123"
+    },
+    {
+        "id":"03",
+        "name":"guru",
+        "image":"https://rukminim1.flixcart.com/image/400/400/hair-dryer/c/t/g/philips-hp8100-46-original-imaemymzuxrnzfjb.jpeg?q=70",
+        "password":"guru123"
+    },
+    {
+        "id":"04",
+        "name":"vel",
+        "image":"https://rukminim1.flixcart.com/image/400/400/hair-dryer/c/t/g/philips-hp8100-46-original-imaemymzuxrnzfjb.jpeg?q=70",
+        "password":"vel123"
+    }]}
